@@ -7,9 +7,18 @@ by Will Connors, Leah Chase, Daniel Hu, Anna Le
 ###
 
 
+#Software Dependencies
+Python 3.4
+Numpy
+Scikit-learn
 
+#Hardware dependencies
 
 #Installation and set up
+Save folder to working directory on computer
+
+Use 
+
 
 
 
